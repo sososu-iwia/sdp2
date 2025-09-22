@@ -1,4 +1,4 @@
 public interface ComputerFactory {
-    Laptop createLaptop();
-    PersonalComputer createPC();
+    Computer createLaptop();
+    Computer createPC();
 }
